@@ -1,2 +1,2 @@
 # collection-of-articles
-My notes and some articles copied from other git repositories
+My notes and some articles whih I learn from other git repositories
